@@ -1,6 +1,6 @@
 # ShopHadrien
 
-Présentation du projet pour la DTY : il s'agit d'un site de e-commerce de démonstration. 
+E-commerce website for demonstration
 
-## Pour le lancer en localhost : 
+## To launch teh project on localhost :  
 npm run dev 
