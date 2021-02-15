@@ -2,5 +2,5 @@
 
 E-commerce website for demonstration
 
-## To launch teh project on localhost :  
+## To launch the project on localhost :  
 npm run dev 
