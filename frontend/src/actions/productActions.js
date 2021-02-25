@@ -1,4 +1,4 @@
-import axios from 'axios'
+import axios from 'axios';
 import {
   PRODUCT_LIST_REQUEST,
   PRODUCT_LIST_SUCCESS,
@@ -22,7 +22,7 @@ import {
   PRODUCT_TOP_SUCCESS,
   PRODUCT_TOP_FAIL,
 } from '../constants/productConstants'
-import { logout } from './userActions'
+import { logout } from './userActions';
 
 export const listProducts = (keyword = '', pageNumber = '') => async (
   dispatch
