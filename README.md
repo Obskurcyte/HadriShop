@@ -1,4 +1,4 @@
-# ShopHadrien
+# HadriShop
 
 E-commerce website for demonstration !
 
