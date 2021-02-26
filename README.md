@@ -1,7 +1,7 @@
 # ShopHadrien
 
-E-commerce website for demonstration
+E-commerce website for demonstration !
 
 
-## npm run dev
+## npm start
 To launch the project on localhost
