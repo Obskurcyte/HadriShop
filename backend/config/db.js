@@ -1,9 +1,8 @@
-import mongoose from 'mongoose'
-import keys from './KEYS.js'
+import mongoose from 'mongoose';
 
 const connectDB = async () => {
   try {
-    const conn = await mongoose.connect(keys.mongodb.dbURI, {
+    const conn = await mongoose.connect(process.env.MONGO_URI, {
       useUnifiedTopology: true,
       useNewUrlParser: true,
       useCreateIndex: true,
