@@ -1,7 +1,7 @@
 {
   "name": "hadrishop",
   "version": "1.0.0",
-  "description": "MERN shopping cart app",
+  "description": "HadriShop",
   "main": "server.js",
   "type": "module",
   "scripts": {
